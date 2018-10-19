@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: F:/YEAR1/Bert the Bear's Adventure/Bert the Bear's Adventure/Assets/Game.unity
   isLoaded: 1
   isActive: 1
